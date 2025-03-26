@@ -19,8 +19,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/arduino-voting-monitor.git
-   cd arduino-voting-monitor
+   git clone https://github.com/Lolja4you/reserv.git
+   cd reserv
    ```
 
 2. Установите зависимости:
